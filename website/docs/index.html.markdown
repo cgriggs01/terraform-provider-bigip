@@ -8,7 +8,7 @@ description: |-
 
 # Overview
 
-A [Terraform](terraform.io) provider for F5 BigIP. Resources are currently available for LTM.
+A [Terraform](https://terraform.io) provider for F5 BigIP. Resources are currently available for LTM.
 
 # F5 Requirements
 
